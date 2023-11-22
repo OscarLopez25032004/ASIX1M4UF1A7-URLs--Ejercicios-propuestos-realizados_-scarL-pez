@@ -1,0 +1,44 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(31, 27, 27);
+}
+body {
+    margin: 0%;
+    padding-right: 25%;
+    padding-left: 25%;
+    color: white;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+h2 {
+    text-align: center;
+    color: purple;
+    text-decoration: underline;
+}
+a {
+    color: lightseagreen;
+    text-decoration: none;
+}
+.trailer {
+    width: 100%;
+}
+.img {
+    width: 10%;
+    border-radius: 70%;
+}
+#Fuego {
+    color: red;
+}
+#Agua {
+    color: blue;
+}
+#Planta {
+    color: green;
+}
+#parrafo {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid ;
+}
